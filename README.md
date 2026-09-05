@@ -1,2 +1,2 @@
 # inf-1sem
-Хамитова Ильмира
+Idrisov Bulat
